@@ -1,0 +1,39 @@
+html {
+    font-family: helvetica;
+    background-color: #333333;
+    color: white;
+}
+.axis--x path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: #ff9bba !important;
+  stroke-width: 1.5px;
+}
+
+svg {
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.domain{
+    stroke: white;
+    border-width: 3px;
+}
+
+text{
+    fill:white;
+}
+
+line{
+    stroke:white;
+}
